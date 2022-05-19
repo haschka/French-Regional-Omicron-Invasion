@@ -1,11 +1,15 @@
 # French-Regional-Omicron-Invasion
 Aggregated Data Simulating French Regional Omicron Invasion
 
-In here you find the R-zero values during SARS-CoV-2 Omicron invasions in France.
+If you use this please cite ??? 
 
-The values is calculated according to our model: Here you find three files for
-each parameterset named `datasettype-generationtime-epsilon-preinfected-{rzero,error,onset}`
+In here you find the calculated R-zero values on a regional level during SARS-CoV-2 Omicron invasions in France.
 
+The values are calculated according to our [model](https://github.com/haschka/SIER_multivariant_epidemic): Here you find three files for
+each parameterset named 
+```
+datasettype-generationtime-epsilon-preinfected-{rzero,error,onset}`
+```
 ### datasettype 
 is either C1 in case where Omicron is indicated if the mutation E484K is absent,
 or D1 if Omicron is indicated by the mutations: 
