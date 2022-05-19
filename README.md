@@ -27,7 +27,7 @@ The fraction of the population that is assumed to be immune against delta at the
 
 ### rzero, error, onset
 The file type:
-- rzero holds 4 columns, the first is the region code indicator, the second the R_zero value for the delta variant ( intepolated from data ), the third the R_zero value calculated for the Omicron Variant.
+- rzero holds 4 columns, the first is the region code indicator, the second the R_zero value for the delta variant ( intepolated from data ), the third the R_zero value calculated for the Omicron Variant and the fourth column holds the R_zero value of other registered variants in the timeframe (negligable)
 - error holds 2 columns, the first column is the region code indicator, the second the absolute fit error. 
 - onset holds 2 columns, the first column is the region code indicator, the second the number the day of december 2021 used as a start for the 20 day R_zero calculation window.
 
