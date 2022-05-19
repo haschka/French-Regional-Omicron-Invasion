@@ -20,10 +20,10 @@ deletion of site 69/70 and/or K417N and/or S371L-S373P and/or Q493R
 The generation time in days for Omicron, either 3, 3.5 or 4. Delta is always fixed to 5.
 
 ### epsilon
-The inferred cross immuity assumed between Delta and Omicron. This value indicated how much protection against an infection by the other variant is obtained by infection with one variant.
+The cross immuity assumed between Delta and Omicron. This value indicates how much protection against an infection by the other variant is obtained by infection with one variant.
 
 ### preinfected
-The fraction of the population that is assumed to be immune against delta at the onset of the calculation
+The fraction of the population that is assumed to be immune against delta at the onset of the calculation.
 
 ### rzero, error, onset
 The file type:
