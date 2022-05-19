@@ -30,3 +30,28 @@ The file type:
 - rzero holds 4 columns, the first is the region code indicator, the second the R_zero value for the delta variant ( intepolated from data ), the third the R_zero value calculated for the Omicron Variant.
 - error holds 2 columns, the first column is the region code indicator, the second the absolute fit error. 
 - onset holds 2 columns, the first column is the region code indicator, the second the number the day of december 2021 used as a start for the 20 day R_zero calculation window.
+
+French region codes are given as follows:
+```
+84      Auvergne-Rhône-Alpes
+32      Hauts-de-France
+93      Provence-Alpes-Côte d'Azur
+44      Grand Est
+76      Occitanie
+28      Normandie
+75      Nouvelle-Aquitaine
+24      Centre-Val de Loire
+94      Corse
+27      Bourgogne-Franche-Comté
+53      Bretagne
+52      Pays de la Loire
+11      Ile-de-France
+1       Guadeloupe
+2       Martinique
+3       Guyane
+4       La Réunion
+6       Mayotte
+5       Saint-Pierre-et-Miquelon
+7       Saint-Barthélemy
+8       Saint-Martin
+```
