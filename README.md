@@ -5,11 +5,12 @@ If you use this please cite ???
 
 In here you find the calculated R-zero values on a regional level during SARS-CoV-2 Omicron invasions in France.
 
-The values are calculated according to our [model](https://github.com/haschka/SIER_multivariant_epidemic): Here you find three files for
+The values are calculated according to our [model](https://github.com/haschka/SIER_multivariant_epidemic): Three files are given for
 each parameterset named 
 ```
 datasettype-generationtime-epsilon-preinfected-{rzero,error,onset}`
 ```
+where:
 ### datasettype 
 is either C1 in case where Omicron is indicated if the mutation E484K is absent,
 or D1 if Omicron is indicated by the mutations: 
