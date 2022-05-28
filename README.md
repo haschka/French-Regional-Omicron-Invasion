@@ -5,7 +5,7 @@ If you use this please cite ???
 
 In here you find the calculated R, reproduction rates, on a regional level during SARS-CoV-2 Omicron invasions in France.
 
-The values are calculated according to our [model](https://github.com/haschka/SIER_multivariant_epidemic): Three files are given for
+The values are calculated according to our [model](https://github.com/haschka/SIER_multivariant_epidemic): In the [regiontables folder] (https://github.com/haschka/French-Regional-Omicron-Invasion/tree/main/regiontables) three files are given for
 each parameterset named 
 ```
 datasettype-generationtime-epsilon-preinfected-{rzero,error,onset}`
