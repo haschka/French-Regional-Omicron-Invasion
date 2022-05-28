@@ -17,7 +17,8 @@ or D1 if Omicron is indicated by the mutations:
 deletion of site 69/70 and/or K417N and/or S371L-S373P and/or Q493R
 
 ### generationtime 
-The generation time in days for Omicron, either 3, 3.5 or 4. Delta is always fixed to 5.
+The generation time in days for Omicron, either 3, 3.5 or 4 days.
+Delta is always fixed to 5 days.
 
 ### epsilon
 The cross immuity assumed between Delta and Omicron. This value indicates how much protection against an infection by the other variant is obtained by infection with one variant.
