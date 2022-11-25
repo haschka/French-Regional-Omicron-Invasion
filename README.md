@@ -1,7 +1,7 @@
 # French-Regional-Omicron-Invasion
 Aggregated Data Simulating French Regional Omicron Invasion
 
-If you use this please cite ??? 
+If you use this please cite [https://doi.org/10.1186/s12879-022-07821-5](https://doi.org/10.1186/s12879-022-07821-5)
 
 In here you find the calculated R, reproduction rates, on a regional level during SARS-CoV-2 Omicron invasions in France.
 
